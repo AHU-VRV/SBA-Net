@@ -2,7 +2,7 @@
 This repo is the official implementation for the paper **"Sub-Band Based Attention for Robust Polyp Segmentation"** at IJCAI-23.
 
 In this work, we propose a Sub-Band based Attention (SBA) module which uniformly adopts either the high or middle sub-bands of the encoder features to boost the decoder features and thus concretely improve the feature discrimination. We also introduce a Transformer Attended Convolution (TAC) module as the main encoder block which takes the Transformer features to boost the CNN features with stronger long-range object contexts. The combination of SBA and TAC leads to a novel polyp segmentation framework, SBA-Net. It adopts TAC to effectively obtain encoded features which also input to SBA, so that efficient sub-bands based attention maps can be generated for progressively decoding the bottleneck features.  
-![network](sbanet.png)
+![network](SBANet.png)
 
 
 ## Recommended Environment: 
