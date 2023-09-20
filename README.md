@@ -41,9 +41,15 @@ python Test.py
 
 ## Citation
 @inproceedings{fang2023SBANet,
+
   title={Sub-Band Based Attention for Robust Polyp Segmentation},
+  
   author={Xianyong Fang and Yuqing Shi and Qingqing Guo and Linbo Wang and Zhengyi Liu},
+  
   booktitle={Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI-23)},
+  
   pages={736--744},
+  
   year={2023}
+  
 }
