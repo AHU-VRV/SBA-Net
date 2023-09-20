@@ -20,14 +20,14 @@ In this work, we propose a Sub-Band based Attention (SBA) module which uniformly
  
 
 ## Preparation 
- Please download training and testing datasets (Google Drive) and move them into ./dataset/. 
+ Please download training and testing [datasets](https://drive.google.com/file/d/1pFxb9NbM8mj_rlSawTlcXG1OdVGAbRQC/view)  and move them into ./dataset/. 
  
- Also please download PVT v2 weights (Google Drive) and move it into ./pretrained/. 
+ Also please download [PVT v2 weights](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV) and move it into ./pretrained/. 
  
 
 ## Checkpoint 
 
-You may also download our pretrained weights (Google Drive) and move it into ./snapshots/ for test. 
+You may also download our [pretrained weights](https://drive.google.com/file/d/1SmRmelNBtToW3abCUi-lG6XUaJMrAM1c/view?usp=sharing) and move it into ./snapshots/ for test. 
  
 
 ## Training and Testing 
